@@ -30,12 +30,12 @@
             {
               "packager": "arduino",
               "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
+              "version": "7.3.0-arduino5"
             },
             {
               "packager": "mhetlive",
               "name": "micronucleus",
-              "version": "2.0a4"
+              "version": "2.5"
             }
           ]
         }
